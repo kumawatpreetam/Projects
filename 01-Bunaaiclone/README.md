@@ -60,10 +60,10 @@ A beautiful **fashion e-commerce front-end website** showcasing ethnic wear for 
 
 ## 📩 Contact
 
-> **Developer:** Preetam Kumawat  
-> **Email:** [preetamkumawat002@gmail.com]  
-> **LinkedIn:** [linkedin.com/in/kumawatpreetam](#)  
-> **GitHub:** [github.com/kumawatpreetam](#)
+- Developer: Preetam Kumawat  
+- Email: preetamkumawat002@gmail.com  
+- LinkedIn: linkedin.com/in/kumawatpreetam  
+- GitHub: github.com/kumawatpreetam
 
 ---
 
