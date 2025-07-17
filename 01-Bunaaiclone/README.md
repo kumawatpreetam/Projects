@@ -6,14 +6,18 @@ A beautiful **fashion e-commerce front-end website** showcasing ethnic wear for 
 
 ## 📸 Screenshot
 
-![Home Page Screenshot](images/hero_black_img.webp)
+![Header ](screenshoot/home.png)
+![NewArrival ](screenshoot/newarrival.png)
+![Shop By Categories ](screenshoot/categories.png)
+![About Product ](screenshoot/therad.png)
+![Footer ](screenshoot/footer.png)
 
 ---
 
 ## ✨ Features
 
-- 🔍 Responsive navigation bar with search bar  
-- 🖼️ Hero section banner with call-to-action  
+- 🔍 Responsive navigation bar with search bar
+- 🖼️ Hero section banner with call-to-action
 - 👗 Product galleries categorized as:
   - **New Arrivals**
   - **Kurta & Suit Sets**
@@ -57,9 +61,9 @@ A beautiful **fashion e-commerce front-end website** showcasing ethnic wear for 
 ## 📩 Contact
 
 > **Developer:** Preetam Kumawat  
-> **Email:** [your-email@example.com]  
-> **LinkedIn:** [linkedin.com/in/your-profile](#)  
-> **GitHub:** [github.com/your-username](#)
+> **Email:** [preetamkumawat002@gmail.com]  
+> **LinkedIn:** [linkedin.com/in/kumawatpreetam](#)  
+> **GitHub:** [github.com/kumawatpreetam](#)
 
 ---
 
