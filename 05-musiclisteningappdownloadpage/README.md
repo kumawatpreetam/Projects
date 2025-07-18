@@ -175,15 +175,16 @@ PIXANIME is a free platform dedicated to providing access to anime, TV series, a
 
 ## 📞 Contact & Social
 
-- **Website**: Pixanime.App
-- **Instagram**: [Follow us on Instagram]
-- **Facebook**: [Follow us on Facebook]
-- **GitHub**: [Check our GitHub]
-- **Discord**: [Join our Discord server]
+- Developer: Preetam Kumawat
+- Email: preetamkumawat002@gmail.com
+- LinkedIn: linkedin.com/in/kumawatpreetam  
+- GitHub: github.com/kumawatpreetam
+
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is for educational purposes only. Images and content are used for learning and design practice.
+
 
 ## 🙏 Acknowledgments
 
