@@ -17,7 +17,7 @@ A static e-commerce site inspired by Bunaai.com. Features include product catego
 
 ### 2. Plantation Web 🌱  
 **GitHub:** [View Code](https://github.com/kumawatpreetam/Projects/tree/main/02-Plantation-web)  
-**Live Preview:** [Plantation Web](https://plantation-web.netlify.app]
+**Live Preview:** [Plantation Web](https://plantation-web.netlify.app)
 A plant and gardening online store that offers shopping cart features, filtering, and a clean, natural-themed design for product browsing.
 
 ---
