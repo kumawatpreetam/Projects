@@ -9,7 +9,7 @@ This repository contains responsive front-end web projects developed using HTML,
 
 ### 1. BunaaiClone 🌸  
 **GitHub:** [View Code](https://github.com/kumawatpreetam/Projects/tree/main/01-Bunaaiclone)  
-**Live Preview:** [https://bunaai-clone.netlify.app](https://bunaai-clone.netlify.app)
+**Live Preview:** [Bunaai Clone](https://bunaai-clone.netlify.app)
 
 A static e-commerce site inspired by Bunaai.com. Features include product categories, sliders, brand story sections, and mobile-friendly UI.
 
@@ -17,14 +17,14 @@ A static e-commerce site inspired by Bunaai.com. Features include product catego
 
 ### 2. Plantation Web 🌱  
 **GitHub:** [View Code](https://github.com/kumawatpreetam/Projects/tree/main/02-Plantation-web)  
-**Live Preview:** [https://plantation-web.netlify.app](https://plantation-web.netlify.app]
+**Live Preview:** [Plantation Web](https://plantation-web.netlify.app]
 A plant and gardening online store that offers shopping cart features, filtering, and a clean, natural-themed design for product browsing.
 
 ---
 
 ### 3. Pixanime 📺  
 **GitHub:** [View Code](https://github.com/kumawatpreetam/Projects/tree/main/03-Pixanime)  
-**Live Preview:** [https://pixanime-app-download.netlify.app](https://pixanime-app-download.netlify.app)
+**Live Preview:** [Pixanime App](https://pixanime-app-download.netlify.app)
 
 An anime and K-drama streaming web app mockup with search functionality, user profile pages, content detail views, and app-style design.
 
